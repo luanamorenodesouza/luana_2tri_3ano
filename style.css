@@ -1,0 +1,48 @@
+body {background-color: blue;
+}
+.p1 {font-size: 250%;
+    text-align: center;
+    background-color: aqua;
+    border-color: black;
+    border-width: 6px;
+     border-style: double;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 10%;
+    padding-top: 20%;}
+    
+
+    .P2 {font-size: 350%;
+        text-align: center;
+        background-color: aqua;
+        border-color: black;
+        border-width: 8px;
+         border-style: double;
+        margin-right: 40%;
+        margin-left: 20%;
+        padding-left: 5%;
+        padding-top: 30%;}
+
+    
+.p3 {font-size: 250%;
+    text-align: center;
+    background-color: aqua;
+    border-color: rgb(255, 174, 0);
+    border-width: 6px;
+     border-left: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 10%;
+    padding-top: 20%;}
+    
+ 
+    .p4 {font-size: 250%;
+        text-align: center;
+        background-color: aqua;
+        border-color: rgb(255, 4, 4);
+        border-width: 6px;
+         border-style: double;
+        margin-left: 10%;
+        margin-right: 20%;
+        padding-left: 10%;
+        padding-top: 20%;}    
